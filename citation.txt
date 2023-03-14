@@ -1,8 +1,8 @@
-@article{2007.07247£¬,
+@article{REPO-204,
     author = "Hu, Yunzhou and Zheng, Liang and Gould, Stephen",
-    title = "Multiview Detection Feature Perspective Transform",
     journal = "CVPR",
-    year = "2020",
+    number = "4",
+    title = "Multiview Detection Feature Perspective Transform",
     volume = "41",
-    number = "4"
+    year = "2020"
 }
